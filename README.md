@@ -18,7 +18,7 @@ Open-source projects in web development, especially in the fields of React, Vue.
 Full-Stack Web Development, especially React, Flask, and web deployment strategies.  
   
 
-- ⚡ Fun fact: I'm Left Handed  
+- ⚡ Fun fact: I'm Left Handed But Right Brained  
   
 
 <br/>  
