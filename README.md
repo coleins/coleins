@@ -7,7 +7,7 @@
   
 
 - 🔭 I’m currently working on
-Building my portfolio and learning new technologies.  
+Payment integration for my Ecommerce and Hotel Booking Apps  
   
 
 - 👯 I’m looking to collaborate on
