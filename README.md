@@ -7,7 +7,7 @@
   
 
 - 🔭 I’m currently working on
-Payment integration for my Ecommerce and Hotel Booking Apps  
+upscaling my Django skills!
   
 
 - 👯 I’m looking to collaborate on
