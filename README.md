@@ -11,11 +11,11 @@ upscaling my Django skills!
   
 
 - 👯 I’m looking to collaborate on
-Open-source projects in web development, especially in the fields of React, Vue.js, and Next.js.  
+Open-source projects in React and/or  Django.  
   
 
 - 💬 Ask me about
-Full-Stack Web Development, especially React, Flask, and web deployment strategies.  
+Full-Stack Web Development, especially JavaScript,React, Python, Django, Flask, and web deployment strategies.  
   
 
 - ⚡ Fun fact: I'm Left Handed But Right Brained  
